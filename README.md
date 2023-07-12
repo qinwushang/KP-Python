@@ -1,1 +1,1 @@
-# KP-Python
+# KP-Python 知识图谱的python后端
